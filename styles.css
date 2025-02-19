@@ -4,7 +4,7 @@ body {
     padding: 0; /* 移除 body 的默认内边距 */
     font-family: 'Orbitron', sans-serif; /* 使用 Orbitron 字体 */
     line-height: 1.6; /* 设置行高为字体大小的 1.6 倍，提高可读性 */
-    background-image: url('this.png'); /* 设置背景图片 */
+    background-image: url('this.jpg'); /* 设置背景图片 */
     background-size: cover; /* 让背景图片覆盖整个页面 */
     background-position: center; /* 让背景图片居中显示 */
     background-attachment: fixed; /* 固定背景图片，使其不随页面滚动 */
